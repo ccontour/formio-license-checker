@@ -1,0 +1,21 @@
+{
+  "repos": [
+    "formio",
+    "formio.js",
+    "angular-formio",
+    "react-formio",
+    "react-native-formio",
+    "vue-formio",
+    "aurelia-formio",
+    "formio-viewer",
+    "formio-cli",
+    "formio-service",
+    "formio-sql",
+    "formio-upload",
+    "formio-webhook-receiver",
+    "formio-workers",
+    "resquel",
+    "keycred",
+    "uswds"
+  ]
+}
